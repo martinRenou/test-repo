@@ -1,0 +1,289 @@
+{
+    "nblink.lock.version": "0.1.0",
+    "id": "7103934129437415",
+    "packages": {
+      "xeus-python-0.17.2-py313hd9adf6f_4.tar.bz2": {
+        "name": "xeus-python",
+        "repo_url": "https://repo.prefix.dev/emscripten-forge-dev/",
+        "build_string": "py313hd9adf6f_4",
+        "url": "https://repo.prefix.dev/emscripten-forge-dev/emscripten-wasm32/xeus-python-0.17.2-py313hd9adf6f_4.tar.bz2",
+        "version": "0.17.2",
+        "repo_name": "https://repo.prefix.dev/emscripten-forge-dev/"
+      },
+      "python_abi-3.13.1-0_cp313.tar.bz2": {
+        "name": "python_abi",
+        "repo_url": "https://repo.prefix.dev/emscripten-forge-dev/",
+        "build_string": "0_cp313",
+        "url": "https://repo.prefix.dev/emscripten-forge-dev/emscripten-wasm32/python_abi-3.13.1-0_cp313.tar.bz2",
+        "version": "3.13.1",
+        "repo_name": "https://repo.prefix.dev/emscripten-forge-dev/"
+      },
+      "ipycanvas-0.13.3-pyhd8ed1ab_1.conda": {
+        "name": "ipycanvas",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/ipycanvas-0.13.3-pyhd8ed1ab_1.conda",
+        "version": "0.13.3",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "numpy-2.2.3-py313h6394566_1.tar.bz2": {
+        "name": "numpy",
+        "repo_url": "https://repo.prefix.dev/emscripten-forge-dev/",
+        "build_string": "py313h6394566_1",
+        "url": "https://repo.prefix.dev/emscripten-forge-dev/emscripten-wasm32/numpy-2.2.3-py313h6394566_1.tar.bz2",
+        "version": "2.2.3",
+        "repo_name": "https://repo.prefix.dev/emscripten-forge-dev/"
+      },
+      "python-3.13.1-h_dd8ba0c_4_cp313.conda": {
+        "name": "python",
+        "repo_url": "https://repo.prefix.dev/emscripten-forge-dev/",
+        "build_string": "h_dd8ba0c_4_cp313",
+        "url": "https://repo.prefix.dev/emscripten-forge-dev/emscripten-wasm32/python-3.13.1-h_dd8ba0c_4_cp313.conda",
+        "version": "3.13.1",
+        "repo_name": "https://repo.prefix.dev/emscripten-forge-dev/"
+      },
+      "ipython-8.33.0-py313h945b378_1.tar.bz2": {
+        "name": "ipython",
+        "repo_url": "https://repo.prefix.dev/emscripten-forge-dev/",
+        "build_string": "py313h945b378_1",
+        "url": "https://repo.prefix.dev/emscripten-forge-dev/emscripten-wasm32/ipython-8.33.0-py313h945b378_1.tar.bz2",
+        "version": "8.33.0",
+        "repo_name": "https://repo.prefix.dev/emscripten-forge-dev/"
+      },
+      "jedi-0.19.2-pyhd8ed1ab_1.conda": {
+        "name": "jedi",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/jedi-0.19.2-pyhd8ed1ab_1.conda",
+        "version": "0.19.2",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "xeus-python-shell-0.6.3-pyhff2d567_1.conda": {
+        "name": "xeus-python-shell",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhff2d567_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/xeus-python-shell-0.6.3-pyhff2d567_1.conda",
+        "version": "0.6.3",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "xeus-python-shell-raw-0.6.3-pyhd8ed1ab_1.conda": {
+        "name": "xeus-python-shell-raw",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/xeus-python-shell-raw-0.6.3-pyhd8ed1ab_1.conda",
+        "version": "0.6.3",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "pyjs-2.7.2-py313h073b787_0.tar.bz2": {
+        "name": "pyjs",
+        "repo_url": "https://repo.prefix.dev/emscripten-forge-dev/",
+        "build_string": "py313h073b787_0",
+        "url": "https://repo.prefix.dev/emscripten-forge-dev/emscripten-wasm32/pyjs-2.7.2-py313h073b787_0.tar.bz2",
+        "version": "2.7.2",
+        "repo_name": "https://repo.prefix.dev/emscripten-forge-dev/"
+      },
+      "emscripten-abi-3.1.73-h267e887_6.tar.bz2": {
+        "name": "emscripten-abi",
+        "repo_url": "https://repo.prefix.dev/emscripten-forge-dev/",
+        "build_string": "h267e887_6",
+        "url": "https://repo.prefix.dev/emscripten-forge-dev/noarch/emscripten-abi-3.1.73-h267e887_6.tar.bz2",
+        "version": "3.1.73",
+        "repo_name": "https://repo.prefix.dev/emscripten-forge-dev/"
+      },
+      "ipywidgets-8.1.5-pyhd8ed1ab_1.conda": {
+        "name": "ipywidgets",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/ipywidgets-8.1.5-pyhd8ed1ab_1.conda",
+        "version": "8.1.5",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "pillow-10.3.0-h7223423_2.tar.bz2": {
+        "name": "pillow",
+        "repo_url": "https://repo.prefix.dev/emscripten-forge-dev/",
+        "build_string": "h7223423_2",
+        "url": "https://repo.prefix.dev/emscripten-forge-dev/emscripten-wasm32/pillow-10.3.0-h7223423_2.tar.bz2",
+        "version": "10.3.0",
+        "repo_name": "https://repo.prefix.dev/emscripten-forge-dev/"
+      },
+      "backcall-0.2.0-pyh9f0ad1d_0.tar.bz2": {
+        "name": "backcall",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyh9f0ad1d_0",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/backcall-0.2.0-pyh9f0ad1d_0.tar.bz2",
+        "version": "0.2.0",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "decorator-5.2.1-pyhd8ed1ab_0.conda": {
+        "name": "decorator",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_0",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/decorator-5.2.1-pyhd8ed1ab_0.conda",
+        "version": "5.2.1",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "matplotlib-inline-0.1.7-pyhd8ed1ab_1.conda": {
+        "name": "matplotlib-inline",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/matplotlib-inline-0.1.7-pyhd8ed1ab_1.conda",
+        "version": "0.1.7",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "pickleshare-0.7.5-pyhd8ed1ab_1004.conda": {
+        "name": "pickleshare",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1004",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/pickleshare-0.7.5-pyhd8ed1ab_1004.conda",
+        "version": "0.7.5",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "prompt-toolkit-3.0.50-pyha770c72_0.conda": {
+        "name": "prompt-toolkit",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyha770c72_0",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/prompt-toolkit-3.0.50-pyha770c72_0.conda",
+        "version": "3.0.50",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "pygments-2.19.1-pyhd8ed1ab_0.conda": {
+        "name": "pygments",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_0",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/pygments-2.19.1-pyhd8ed1ab_0.conda",
+        "version": "2.19.1",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "stack_data-0.6.3-pyhd8ed1ab_1.conda": {
+        "name": "stack_data",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/stack_data-0.6.3-pyhd8ed1ab_1.conda",
+        "version": "0.6.3",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "traitlets-5.14.3-pyhd8ed1ab_1.conda": {
+        "name": "traitlets",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/traitlets-5.14.3-pyhd8ed1ab_1.conda",
+        "version": "5.14.3",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "pexpect-4.9.0-pyhd8ed1ab_1.conda": {
+        "name": "pexpect",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/pexpect-4.9.0-pyhd8ed1ab_1.conda",
+        "version": "4.9.0",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "typing_extensions-4.12.2-pyha770c72_1.conda": {
+        "name": "typing_extensions",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyha770c72_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/typing_extensions-4.12.2-pyha770c72_1.conda",
+        "version": "4.12.2",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "parso-0.8.4-pyhd8ed1ab_1.conda": {
+        "name": "parso",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/parso-0.8.4-pyhd8ed1ab_1.conda",
+        "version": "0.8.4",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "comm-0.2.2-pyhd8ed1ab_1.conda": {
+        "name": "comm",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/comm-0.2.2-pyhd8ed1ab_1.conda",
+        "version": "0.2.2",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "jupyterlab_widgets-3.0.13-pyhd8ed1ab_1.conda": {
+        "name": "jupyterlab_widgets",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/jupyterlab_widgets-3.0.13-pyhd8ed1ab_1.conda",
+        "version": "3.0.13",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "widgetsnbextension-4.0.13-pyhd8ed1ab_1.conda": {
+        "name": "widgetsnbextension",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/widgetsnbextension-4.0.13-pyhd8ed1ab_1.conda",
+        "version": "4.0.13",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "wcwidth-0.2.13-pyhd8ed1ab_1.conda": {
+        "name": "wcwidth",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/wcwidth-0.2.13-pyhd8ed1ab_1.conda",
+        "version": "0.2.13",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "asttokens-3.0.0-pyhd8ed1ab_1.conda": {
+        "name": "asttokens",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/asttokens-3.0.0-pyhd8ed1ab_1.conda",
+        "version": "3.0.0",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "executing-2.1.0-pyhd8ed1ab_1.conda": {
+        "name": "executing",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/executing-2.1.0-pyhd8ed1ab_1.conda",
+        "version": "2.1.0",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "pure_eval-0.2.3-pyhd8ed1ab_1.conda": {
+        "name": "pure_eval",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/pure_eval-0.2.3-pyhd8ed1ab_1.conda",
+        "version": "0.2.3",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      },
+      "ptyprocess-0.7.0-pyhd8ed1ab_1.conda": {
+        "name": "ptyprocess",
+        "repo_url": "https://repo.prefix.dev/conda-forge/",
+        "build_string": "pyhd8ed1ab_1",
+        "url": "https://repo.prefix.dev/conda-forge/noarch/ptyprocess-0.7.0-pyhd8ed1ab_1.conda",
+        "version": "0.7.0",
+        "repo_name": "https://repo.prefix.dev/conda-forge/"
+      }
+    },
+    "pipPackages": {
+      "ipydatagrid-1.4.0-py3-none-any.whl": {
+        "name": "ipydatagrid",
+        "version": "1.4.0",
+        "url": "https://files.pythonhosted.org/packages/ac/21/8b81f5368120ff44b11dcdf2517fc0c2cbefda61893c4f9049c2ee838c98/ipydatagrid-1.4.0-py3-none-any.whl"
+      },
+      "bqplot-0.12.44-py2.py3-none-any.whl": {
+        "name": "bqplot",
+        "version": "0.12.44",
+        "url": "https://files.pythonhosted.org/packages/92/bf/2ebe83bc691f5f7e68702caa38cca78d74f8a03b87eb962b62382d38490c/bqplot-0.12.44-py2.py3-none-any.whl"
+      },
+      "traittypes-0.2.1-py2.py3-none-any.whl": {
+        "name": "traittypes",
+        "version": "0.2.1",
+        "url": "https://files.pythonhosted.org/packages/9c/d1/8d5bd662703cc1764d986f6908a608777305946fa634d34c470cd4a1e729/traittypes-0.2.1-py2.py3-none-any.whl"
+      },
+      "py2vega-0.6.1-py3-none-any.whl": {
+        "name": "py2vega",
+        "version": "0.6.1",
+        "url": "https://files.pythonhosted.org/packages/87/9e/bb60e40f1414884cf0408c975f75cf81935c00f52f0156e039ccd4b69ee3/py2vega-0.6.1-py3-none-any.whl"
+      },
+      "gast-0.4.0-py3-none-any.whl": {
+        "name": "gast",
+        "version": "0.4.0",
+        "url": "https://files.pythonhosted.org/packages/b6/48/583c032b79ae5b3daa02225a675aeb673e58d2cb698e78510feceb11958c/gast-0.4.0-py3-none-any.whl"
+      }
+    }
+}
