@@ -1,13 +1,11 @@
-name: xeus-python-kernel
+name: default-environment
 channels:
   - https://repo.prefix.dev/emscripten-forge-dev
-  - https://repo.prefix.dev/conda-forge
+  - conda-forge
 dependencies:
   - xeus-python
-  - ipycanvas
-  - pandas
-  - jupytercad_lite
+  - pycrdt
+  - pydantic
   - pip:
-    - ipydatagrid
-    - bqplot
-    
+    - jupytercad_lite
+    - my-jupyter-shared-drive==0.1.16
