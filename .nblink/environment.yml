@@ -6,6 +6,8 @@ dependencies:
   - xeus-python
   - ipycanvas
   - pandas
+  - jupytercad_lite
   - pip:
     - ipydatagrid
     - bqplot
+    
