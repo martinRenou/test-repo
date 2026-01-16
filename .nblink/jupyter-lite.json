@@ -1,6 +1,7 @@
 {
   "jupyter-config-data": {
     "appName": "My JupyterLite App",
-    "disabledExtensions": ["@jupyterlab/application-extension:logo"]
+    "disabledExtensions": ["@jupyterlab/application-extension:logo"],
+    "terminalsAvailable": false
   }
 }
