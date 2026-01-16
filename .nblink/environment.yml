@@ -5,8 +5,3 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
-  - numpasqsqwdqwd
-  - wqd
-  - pip:
-    - ipydatagrid
-    - bqplot
