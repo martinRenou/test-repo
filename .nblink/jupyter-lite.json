@@ -5,7 +5,7 @@
     "terminalsAvailable": false,
     "settingsOverrides": {
       "@jupyterlab/apputils-extension:themes": {
-        "theme": "JupyterLab Dark"
+        "theme": "JupyterLab Dark High Contrast"
       }
     }
   }
