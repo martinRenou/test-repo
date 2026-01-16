@@ -2,6 +2,11 @@
   "jupyter-config-data": {
     "appName": "My JupyterLite App",
     "disabledExtensions": ["@jupyterlab/application-extension:logo"],
-    "terminalsAvailable": false
+    "terminalsAvailable": false,
+    "settingsOverrides": {
+      "@jupyterlab/apputils-extension:themes": {
+        "theme": "JupyterLab Dark"
+      }
+    }
   }
 }
